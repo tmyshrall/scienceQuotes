@@ -5,6 +5,21 @@ const allQuotes = [
   "Transformer",
   "creature report creature report",
   "*crushes apple with hand and sniffs it* This smells bad"
+  "Big Black Bloch"
+  "My kids are very good at holding my dinner"
+  "These chocolates are from lithuania I stole them from a teacher"
+  "Yeah Yeah Yeah"
+  "NICE"
+  "Blip Blirp *fart noise*"
+  "What What What"
+  "Chill Chill"
+  "What color are your eyes - I dont know I cant see them"
+  "Hit the reset button"
+  "ROADTRIP"
+  "Who has this cow fetish"
+  "Chrom Daddy"
+  "They just let anyone signup for AP classes these days"
+  "Silly Graph"
 ];
 
 
